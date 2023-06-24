@@ -85,4 +85,16 @@ section{
 
 }
 
+.galery3{
+    border-radius: 25px;
+    object-fit: cover;
+    height: 410px
 
+} 
+
+.galery4{
+    border-radius: 25px;
+    object-fit: cover;
+    height: 300px
+
+} 
